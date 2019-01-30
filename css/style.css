@@ -1,0 +1,22 @@
+body {
+    background-color: #fef4e8;
+    /*creme: #fef4eb magenta: #970747 lighter blue: #1989ac darker blue: 283e56 */
+    }
+
+hr {
+    border-style: none;
+    border-color: #970747;
+    border-top-style: dotted;
+    border-width: 3px;
+    width: 3%;
+    }
+
+h1, h3 {
+    color: #283e56
+}
+
+img {
+    border-radius: 40%;
+    height: 200px;
+}
+            
